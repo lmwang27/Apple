@@ -1,0 +1,7 @@
+
+csquid:S2094"BRemove this empty class, write its code or make it an "interface".(ƒ–õüÿÿÿÿ8øâ—¥ó-
+[squid:UselessImportCheck"2Remove this unused import 'org.junit.BeforeClass'.(´ª«ê8êêÌ¥ó-
+[squid:UselessImportCheck"-Remove this unused import 'org.junit.Ignore'.(®ÅıÏÿÿÿÿÿ8êêÌ¥ó-
+Usquid:UselessImportCheck",Remove this unused import 'org.junit.After'.(«ñÖ«8êêÌ¥ó-
+Ysquid:UselessImportCheck"+Remove this unused import 'org.junit.Test'.(ùøèøÿÿÿÿ8êêÌ¥ó-
+Vsquid:UselessImportCheck"-Remove this unused import 'org.junit.Before'.(ÙşºÙ8êêÌ¥ó-

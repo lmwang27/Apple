@@ -1,0 +1,10 @@
+
+[
+squid:S106H"9Replace this use of System.out or System.err by a logger.(¨¶ÑÍşÿÿÿÿ8×³è¥ó-
+Ssquid:S2864Š"4Iterate over the "entrySet" instead of the "keySet".(Ü¦À–8×³è¥ó-
+Fsquid:S1481j"(Remove this unused "len" local variable.(¼Î¡8×³è¥ó-
+\
+squid:S106±"9Replace this use of System.out or System.err by a logger.(¨¶ÑÍşÿÿÿÿ8×³è¥ó-
+‘squid:S1319„"mThe return type of this method should be an interface such as "Map" rather than the implementation "HashMap".(Ÿ¹àãúÿÿÿÿ8×³è¥ó-
+[
+squid:S106w"9Replace this use of System.out or System.err by a logger.(ŒŒüçûÿÿÿÿ8×³è¥ó-
